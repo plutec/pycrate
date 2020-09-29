@@ -17,7 +17,7 @@ License
 The whole library is licensed under LGPL v2.1 and is compatible with more recent 
 version of the LGPL: all licensed files have an header making it self-explanatory.
 For more details, please report to the 
-[license.txt](https://github.com/p1sec/pycrate/license.txt) file.
+[license.txt](https://github.com/P1sec/pycrate/blob/master/license.txt) file.
 
 
 Wiki
